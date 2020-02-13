@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="api.repository.EventSensorsRepository"/>
+<fullyQualifiedTypeName name="api.service.EventSensorsService"/>
+<fullyQualifiedTypeName name="api.userstories.EventsCreateUs"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="api.dto.in.EventsCreateInDto"/>
+<fullyQualifiedTypeName name="api.domain.Event.Type"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="api.domain.Event"/>
+</qualifiedTypeNameHistroy>
